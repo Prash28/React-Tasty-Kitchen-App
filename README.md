@@ -1,3 +1,31 @@
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/Prash28/React-Tasty-Kitchen-App.git
+cd React-Tasty-Kitchen-App
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+
+**Running the Project**
+
+```bash
+npm start
+```
+
+**Project Demo**
+
+<video src='https://youtu.be/45b3YMmP-OQ' width=180/>
+
+  **Project Overview**
+
 In this project let's build a **Tasty Kitchens App** by applying the concepts we have learned till now. This project allows you to practice the concepts and techniques learned till React Course and apply them in a concrete project.
 
 You will demonstrate your skills by creating an app that will fetch data from an internal server using a class component, displaying that data, using **component lifecycle** methods, **routing** concepts, **authentication**, and **authorization**, and adding responsiveness to the website.
