@@ -22,7 +22,7 @@ npm start
 
 **Project Demo**
 
-<video src='https://youtu.be/45b3YMmP-OQ' width=180/>
+<video src='https://youtu.be/45b3YMmP-OQ' width=180></video>
 
   **Project Overview**
 
