@@ -22,7 +22,11 @@ npm start
 
 **Project Demo**
 
-<video src='https://youtu.be/45b3YMmP-OQ' width=180></video>
+
+
+https://github.com/Prash28/React-Tasty-Kitchen-App/assets/37222518/894f7a05-4714-4fa7-9942-d94f601a13fa
+
+
 
   **Project Overview**
 
